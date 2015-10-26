@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <dict>
+        <key>URL</key>
+        <string>http://hunk.com.mx/udid/processes_data.php</string>
+    <key>DeviceAttributes</key>
+    <array>
+        <string>UDID</string>
+        <string>DEVICE_NAME</string>
+        <string>VERSION</string>
+        <string>PRODUCT</string>
+        <string>MAC_ADDRESS_EN0</string>
+        <string>IMEI</string>
+        <string>ICCID</string>
+    </array>
+</dict>
+<key>PayloadOrganization</key>
+<string>My Organization</string>
+<key>PayloadDisplayName</key>
+<string>Device Information (UDID)</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>PayloadUUID</key>
+<string>BDD0F593-5B98-47FF-A0A4-4B98E30CE451</string>
+<key>PayloadIdentifier</key>
+<string>mx.com.hunk.getUDID</string>
+<key>PayloadDescription</key>
+<string>Knowing the UDID of my iOS device</string>
+<key>PayloadType</key>
+<string>Profile Service</string>
+</dict>
+</plist>

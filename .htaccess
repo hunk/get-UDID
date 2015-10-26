@@ -1,0 +1,4 @@
+<IfModule mod_mime.c>
+    AddType text/xml .plist
+    AddType application/x-apple-aspen-config .mobileconfig
+</IfModule>
